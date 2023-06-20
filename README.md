@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+프로젝트는 보안상 private 설정되어 있습니다.
+
+
+
 <!--
 **SeJinGoGo/SeJinGoGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
